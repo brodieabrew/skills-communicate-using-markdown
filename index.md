@@ -5,3 +5,9 @@
 ```
 printf("Hello World");
 ```
+
+- [x] Add header example
+- [x] Add image example
+- [x] Add code example
+- [x] Add list example
+- [ ] Finish pull request
